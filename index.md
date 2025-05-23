@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-GitHub 是为开发者提供 Git 仓库的托管服务。这是一个让开发者与朋友、同事、同学及陌生人共享代码的完美场所。
+Welcome to my blog. From now on, I will update the knowledge points I have acquired during my studies and work here on this blog.
